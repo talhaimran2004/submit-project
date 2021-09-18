@@ -1,0 +1,106 @@
+.main {
+    width: 100%;
+    height: 100%;
+    background-image: url(./images/bg-image.jpg);
+    background-size: cover;
+    position: absolute;
+    
+}
+.present{
+    color: white;
+}
+
+.btnn{
+    margin-left: 90px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    background: linear-gradient(to right, #0fb6dd, #00315a);
+}
+#username {
+    border-radius: 20px
+}
+#pass {
+    margin-left: 12px;
+    border-radius: 20px
+}
+#nameOfTeam{
+    border-radius: 20px
+}
+#nameOfMember{
+    border-radius: 20px
+}
+.btnn1{
+    margin-top: 10px;
+    margin-left: 82px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    background: linear-gradient(to right, #0fb6dd, #00315a);
+}
+
+#loogout{
+    margin-top: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    background: linear-gradient(to right, #0fb6dd, #00315a);
+   
+}
+
+#addd{
+    margin-top: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+    background: transparent;
+    font-weight: bolder;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    border-radius: 30px;
+    background: linear-gradient(to right, #0fb6dd, #00315a);
+   
+}
+.user-box, .login-box {
+    display: none;
+    margin-left: 550px;
+    margin-top: 200px;
+
+}
+
+.teamData {
+    position: relative;
+    border: 2px solid olive;
+    padding: 20px;
+    margin: 50px;
+}
+
+.span {
+    position: absolute;
+    font-size: 18px;
+    right: 10px;
+}
+
+input {
+    margin-right: 20px;
+}
+
+
+.msg span{
+font-size: 13px;
+}
